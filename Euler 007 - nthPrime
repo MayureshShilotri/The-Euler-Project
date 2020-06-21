@@ -26,3 +26,5 @@ function isPrime(n) {
   return true;
 }
 console.log(nthPrime(5));
+
+// New Device
